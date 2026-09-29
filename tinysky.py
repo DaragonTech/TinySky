@@ -1,9 +1,9 @@
-# SPDX-License-Identifier: LicenseRef-MIT-HumanDev
+# SPDX-License-Identifier: LicenseRef-DT-HumanDev
 """
 TinySky
 Copyright (c) 2026 DaragonTech and Felipe Daragon
 
-MIT No-AI Development License (MIT-HumanDev)
+DT No-AI Development License (DT-HumanDev)
 
 Summary: This license permits human development of the Software. It does not
 permit AI-assisted development of the Software or its derivative works.
